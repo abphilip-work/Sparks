@@ -1,4 +1,4 @@
-# TSF GRIP Tasks - May 2021
+# TSF GRIP Tasks
 
 Author: **Allen Ben Philipose**
 
