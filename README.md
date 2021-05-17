@@ -6,7 +6,7 @@ Internship Function: **Data Science & Business Analytics**
 
 **Graduate Rotational Internship Program**
 
-<br /><br />
+<br />
 
 # Author
 
