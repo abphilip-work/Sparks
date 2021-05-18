@@ -7,5 +7,5 @@ Internship Function: **Data Science & Business Analytics**
 
 <br />
 
-# Author
-`Allen Ben Philipose`
+# Author 
+### `Allen Ben Philipose`
