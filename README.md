@@ -1,5 +1,4 @@
 # The Sparks Foundation 
-
 Batch: **May 2021**
 
 Internship Function: **Data Science & Business Analytics**
@@ -9,5 +8,4 @@ Internship Function: **Data Science & Business Analytics**
 <br />
 
 # Author
-
-**Allen Ben Philipose**
+`Allen Ben Philipose`
