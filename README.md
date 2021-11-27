@@ -1,10 +1,10 @@
-# The Sparks Foundation 
+# Sparks Foundation 
 
-Batch: **May 2021**
+**Graduate Rotational Internship Program**
 
 Internship Function: **Data Science & Business Analytics**
 
-**Graduate Rotational Internship Program**
+Batch: **May 2021**
 
 <br />
 
